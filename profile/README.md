@@ -32,4 +32,4 @@ Researchers and data scientists who:
 
 ---
 
-> *Made with help of Claude and tested by real humans.*
+> *Made with help of Claude and tested by real human.*
