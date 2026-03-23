@@ -12,7 +12,7 @@ Follow these tutorials in order. Each one builds on the last.
 
 | # | Tutorial | What You'll Learn | Link |
 |---|---|---|---|
-| 1 | **CI/CD Template** | Testing, linting, GitHub Actions, automated ML pipelines | [ci-cd-template](https://github.com/po-DRA/ci-cd-template) |
+| 1 | **CI/CD with GitHub Actions** | Testing, linting, GitHub Actions, automated ML pipelines | [ci-cd-template](https://github.com/po-DRA/ci-cd-template) |
 | 2 | **REST API Builder** | REST fundamentals, FastAPI, serve an ML model as an API, deploy | [API](https://github.com/po-DRA/API) |
 
 ---
