@@ -1,4 +1,4 @@
-# Welcome to po-DRA
+# Welcome to DRA Learning materials, created by Priyanka
 
 **Practical, Open Data & Research Automation**
 
