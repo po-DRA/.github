@@ -1,4 +1,4 @@
-# Welcome to DRA Learning materials, created by Priyanka
+# Welcome to DRA Learning materials
 
 **Practical, Open Data & Research Automation**
 
