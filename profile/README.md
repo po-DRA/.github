@@ -2,7 +2,7 @@
 
 **Practical, Open Data & Research Automation**
 
-We build hands-on tutorials that teach researchers modern software engineering skills — CI/CD, REST APIs, ML deployment, and more. Every tutorial uses **healthcare examples** so the concepts feel relevant from day one.
+We build hands-on tutorials that teach researchers modern software engineering skills - CI/CD, REST APIs, ML deployment, and more. Every tutorial uses **healthcare examples** so the concepts feel relevant from day one.
 
 ---
 
@@ -14,7 +14,7 @@ Follow these tutorials in order. Each one builds on the last.
 |---|---|---|---|
 | 1 | **CI/CD with GitHub Actions** | Testing, linting, GitHub Actions, automated ML pipelines | [ci-cd-template](https://github.com/po-DRA/ci-cd-template) |
 | 2 | **REST API Builder** | REST fundamentals, FastAPI, serve an ML model as an API, deploy | [API](https://github.com/po-DRA/API) |
-| 3 | **UK Healthcare Big Data Pipeline** | ETL pipelines, medallion architecture (Bronze → Silver → Gold), DuckDB, Polars, Prefect orchestration, streaming, data contracts, and lineage tracking — using real NHS open data **(single-node — builds big data patterns without cluster setup)** | [uk-healthcare-big-data-pipeline](https://github.com/po-DRA/uk-healthcare-big-data-pipeline) |
+| 3 | **UK Healthcare Big Data Pipeline** | ETL pipelines, medallion architecture (Bronze → Silver → Gold), DuckDB, Polars, Prefect orchestration, streaming, data contracts, and lineage tracking - using real NHS open data **(single-node - builds big data patterns without cluster setup)** | [uk-healthcare-big-data-pipeline](https://github.com/po-DRA/uk-healthcare-big-data-pipeline) |
 
 ---
 
@@ -22,14 +22,14 @@ Follow these tutorials in order. Each one builds on the last.
 
 Researchers and data scientists who:
 - Know basic Python but are new to software engineering practices
-- Want to deploy their ML models — not just train them in notebooks
+- Want to deploy their ML models - not just train them in notebooks
 - Work in healthcare, clinical research, or biomedical domains
 
 ### How to Get Started
 
 1. **Fork** a tutorial repo to your own GitHub account
 2. Click **Code → Codespaces → Create codespace** for instant setup (no install needed!)
-3. Follow the labs in order — each one has a README with step-by-step instructions
+3. Follow the labs in order - each one has a README with step-by-step instructions
 
 ---
 
