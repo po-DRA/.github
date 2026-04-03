@@ -14,6 +14,7 @@ Follow these tutorials in order. Each one builds on the last.
 |---|---|---|---|
 | 1 | **CI/CD with GitHub Actions** | Testing, linting, GitHub Actions, automated ML pipelines | [ci-cd-template](https://github.com/po-DRA/ci-cd-template) |
 | 2 | **REST API Builder** | REST fundamentals, FastAPI, serve an ML model as an API, deploy | [API](https://github.com/po-DRA/API) |
+| 3 | **UK Healthcare Big Data Pipeline** | ETL pipelines, medallion architecture (Bronze → Silver → Gold), DuckDB, Polars, Prefect orchestration, streaming, data contracts, and lineage tracking — using real NHS open data | [uk-healthcare-big-data-pipeline](https://github.com/po-DRA/uk-healthcare-big-data-pipeline) |
 
 ---
 
